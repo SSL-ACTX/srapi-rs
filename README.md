@@ -124,7 +124,6 @@ See [tests/test_ffi.py](tests/test_ffi.py) for a complete reference implementati
 
 **Requirements:**
 *   Rust (latest stable)
-*   OpenSSL (pkg-config)
 
 **Running Tests:**
 Network tests are live and require an internet connection.
